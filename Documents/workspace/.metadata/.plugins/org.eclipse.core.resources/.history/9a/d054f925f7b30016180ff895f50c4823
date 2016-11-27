@@ -1,0 +1,13 @@
+package mypackage;
+
+public class TestHouse {
+	//Variables
+	public int adress = 1625;
+	public String className;
+	
+	//Method
+	public void houseAdress () {
+		
+	}
+
+}
